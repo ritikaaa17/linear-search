@@ -1,2 +1,2 @@
 # linear-search
-C++ for Linear Search
+C++ code for Linear Search
